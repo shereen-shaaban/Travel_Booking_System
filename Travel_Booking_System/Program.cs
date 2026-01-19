@@ -1,6 +1,8 @@
-﻿namespace Travel_Booking_System
+﻿using Travel_Booking_System.classes;
+namespace Travel_Booking_System
 {
-    internal class Program
+	
+	internal class Program
     {
         static void Main(string[] args)
         {
